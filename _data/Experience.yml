@@ -2,9 +2,9 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: "**Role**: `Senior Software Developer`"
-    company: "**Company**: `Accenture Philippines`"
-    date: August 21, 2021 - Ongoing 
+  - title: Senior Software Developer
+    company: "**@**: `Accenture Philippines`"
+    date: 08/21/2021 - Ongoing 
     description:
         - Build and Design the MySQL database backend for the use of Solidatus app. 
         - Create events to automatically process JSON files received from Mulesoft, where I develop parsing script to get metadata. 
