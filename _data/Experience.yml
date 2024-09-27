@@ -4,7 +4,7 @@ icon: "/assets/img/briefcase.svg"
 contents:
   - title: Senior Software Developer
     company: "**@**: `Accenture Philippines`"
-    date: Aug 21,2021 - Ongoing 
+    date: Aug 2021 - Ongoing 
     description:
         - Build and Design the MySQL database backend for the use of Solidatus app. 
         - Create events to automatically process JSON files received from Mulesoft, where I develop parsing script to get metadata. 
@@ -12,7 +12,7 @@ contents:
         - Develop Lamdba, and API-Gateway for automation, create instructions, and design flow for the system on confluence.
   - title: Oracle Developer and Support
     company: "**@**: `Trax Techonologies Inc.`"
-    date: Jun 01,2018 – Aug/20/2021
+    date: Jun 2018 – Aug 2021
     description:
         - Supporting applications against Oracle databases.
         - Maintaining and optimizing transaction processing, reporting and analytical infrastructure
@@ -24,7 +24,7 @@ contents:
         - Developed and modified data migration import utilizing UNIX Shell scripts and PERL.
   - title: Oracle Developer and Support
     company: "**@**: `Unison Computer Systems Inc.`" 
-    date: May 30,2017 – MAY/30/2018
+    date: May 2017 – May 2018
     description:
         - Supporting applications against Oracle databases.
         - Maintaining and optimizing transaction processing, reporting and analytical infrastructure
@@ -36,14 +36,14 @@ contents:
         - Developed and modified data migration import utilizing UNIX Shell scripts and PERL.
   - title: Oracle Developer
     company: "**@**: `Software Laboratories Inc.`" 
-    date: Feb 06,2017 – MAY/30/2017
+    date: Feb 2017 – May 2017
     description:
         - Extraction and spooling of large amount of data based on Business Requirements Document.
         - Sending extracted files to report server via FTP or SFTP.
         - Developed and modified several UNIX shell scripts according to the project specifications.
   - title: Oracle Developer
     company: "**@**: `Haystack Business Intelligence Solutions`"  
-    date: MAY/05/2015 – FEB/03/2017
+    date: May 2015 – Feb 2017
     description:
         - Created, modified, and tested the code, scripts, and forms that allow a system to run different types of applications. 
         - Developed advance PL/SQL packages, procedures, triggers, functions, indexes and collections to implement business logic. Generates server-side PL/SQL scripts for data manipulation and validation and materialize views for remote instances.
