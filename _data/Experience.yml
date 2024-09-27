@@ -2,18 +2,18 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - Role: Senior Software Developer
-    Company: Accenture Philippines
-    Period: August 21, 2021 - Ongoing
-    Description:
+  - title: Senior Software Developer
+    company: "**@**: `Accenture Philippines`"
+    date: August 21, 2021 - Ongoing 
+    description:
         - Build and Design the MySQL database backend for the use of Solidatus app. 
         - Create events to automatically process JSON files received from Mulesoft, where I develop parsing script to get metadata. 
         - Build procedures and function inside MySQL database to export JSON files that will be used by Mulesoft API. 
         - Develop Lamdba, and API-Gateway for automation, create instructions, and design flow for the system on confluence.
-  - Role: Oracle Developer and Support
-    Company: Trax Techonologies Inc
-    Period: June 01, 2018 – August 20, 2021
-    Description:
+  - title: Oracle Developer and Support
+    company: Trax Techonologies Inc
+    date: June 01, 2018 – August 20, 2021
+    description:
         - Supporting applications against Oracle databases.
         - Maintaining and optimizing transaction processing, reporting and analytical infrastructure
         - Providing corrective action request for resolutions and improvements to reduce support time
@@ -22,10 +22,10 @@ contents:
         - Documented helpdesk troubled tickets in the Helpdesk tool and leveraged the tool to create Helpdesk metrics.
         - Developed and modified custom reports to suit client requirements.
         - Developed and modified data migration import utilizing UNIX Shell scripts and PERL.
-  - Role: Oracle Developer and Support
-    Company: Trax Techonologies Inc.
-    Period: June 01, 2018 – August 20, 2021
-    Description:
+  - title: Oracle Developer and Support
+    company: Trax Techonologies Inc.
+    date: June 01, 2018 – August 20, 2021
+    description:
         - Supporting applications against Oracle databases.
         - Maintaining and optimizing transaction processing, reporting and analytical infrastructure
         - Providing corrective action request for resolutions and improvements to reduce support time
@@ -34,10 +34,10 @@ contents:
         - Documented helpdesk troubled tickets in the Helpdesk tool and leveraged the tool to create Helpdesk metrics.
         - Developed and modified custom reports to suit client requirements.
         - Developed and modified data migration import utilizing UNIX Shell scripts and PERL.
-  - Role: Oracle Developer and Support
-    Company: Unison Computer Systems Inc.
-    Period: May 30, 2017 – May 30, 2018
-    Description:
+  - title: Oracle Developer and Support
+    company: Unison Computer Systems Inc.
+    date: May 30, 2017 – May 30, 2018
+    description:
         - Supporting applications against Oracle databases.
         - Maintaining and optimizing transaction processing, reporting and analytical infrastructure
         - Providing corrective action request for resolutions and improvements to reduce support time
@@ -46,17 +46,17 @@ contents:
         - Documented helpdesk troubled tickets in the Helpdesk tool and leveraged the tool to create Helpdesk metrics.
         - Developed and modified custom reports to suit client requirements.
         - Developed and modified data migration import utilizing UNIX Shell scripts and PERL.
-  - Role: Oracle Developer
-    Company: Software Laboratories Inc.
-    Period: February 06, 2017 – May 30, 2017
-    Description:
+  - title: Oracle Developer
+    company: Software Laboratories Inc.
+    date: February 06, 2017 – May 30, 2017
+    description:
         - Extraction and spooling of large amount of data based on Business Requirements Document.
         - Sending extracted files to report server via FTP or SFTP.
         - Developed and modified several UNIX shell scripts according to the project specifications.
-  - Role: Oracle Developer
-    Company: Haystack Business Intelligence Solutions
-    Period: May 05, 2015 – February 03, 2017
-    Description:
+  - title: Oracle Developer
+    company: Haystack Business Intelligence Solutions
+    date: May 05, 2015 – February 03, 2017
+    description:
         - Created, modified, and tested the code, scripts, and forms that allow a system to run different types of applications. 
         - Developed advance PL/SQL packages, procedures, triggers, functions, indexes and collections to implement business logic. Generates server-side PL/SQL scripts for data manipulation and validation and materialize views for remote instances.
         - Experienced in database application development, query optimization, performance tuning and implementation experience in complete system development life cycle.
