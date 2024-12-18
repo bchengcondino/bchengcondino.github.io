@@ -1,20 +1,16 @@
 title: Title of your CV site
-profile_img: /assets/img/profile.webp
-icon_img: /assets/img/icon.webp
+profile_img: /assets/img/profile.jpg
+icon_img: /assets/img/icon.png
 
 name: "Bryan Condino"
 job: "Database Developer"
 
-phone_number: +639764522225
+phone_number: +639765978385
 address: Marilao Bulacan, Philippines
 email: bchengcondino@gmail.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
-youtube_username: youtube
-blog_url: homepage-url
+linkedin_username: https://www.linkedin.com/in/bryan-condino-92610a135/
+github_username: bchengcondino
+blog_url: https://bchengcondino.github.io/
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
